@@ -6,19 +6,44 @@ Webエンジニア3年目を迎えました。
 ## 経験してきた技術スタック
 
 ### フロントエンド
+
 - Vue.js 3
-- React 18
+- React 18/19
+- Next.js 14+/16
 - Astro
+
 #### UIフレームワーク
+
 - Vuetify
 - Material-UI
+- Tailwind CSS
 
 ### バックエンド
+
 - Supabase
 - Cloudflare Workers
-- TypeScript
-ツール
-- Git
----
+- FastAPI (Python)
 
-まだまだ勉強中ですが、面白いWeb開発プロジェクトでのコラボレーションは大歓迎です！
+#### データベース
+
+- PostgreSQL
+- Cloudflare D1 (SQLite)
+
+#### ORM
+
+- Prisma
+- Drizzle ORM
+- SQLAlchemy
+
+### インフラ・デプロイ
+
+- Vercel
+- GitHub Pages
+- Cloudflare Workers/Pages
+- Docker Compose
+
+### ツール
+
+- Git
+- Vite
+- Marp CLI
